@@ -12,31 +12,31 @@ I make simple things complicated
 
 ## [![Languages](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4269&pause=6942&color=E1DBEF&vCenter=true&height=24&lines=Languages+I'm+Learning)](https://git.io/typing-svg)
 
-<a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.python.org/">
 <img align="left" title="python" width="48px" src="https://skillicons.dev/icons?i=py&theme=dark" />
 </a>
 
-<a href="https://nodejs.org/en/" target="_blank" rel="noopener noreferrer">
+<a href="https://nodejs.org/en/">
 <img align="left" title="nodejs" width="48px" src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
 </a>
 
-<a href="https://godotengine.org/" target="_blank" rel="noopener noreferrer">
+<a href="https://godotengine.org/">
 <img align="left" title="gdscript" width="48px" src="https://skillicons.dev/icons?i=godot&theme=dark" />
 </a>
 
-<a href="https://nuwen.net/mingw.html" target="_blank" rel="noopener noreferrer">
+<a href="https://nuwen.net/mingw.html">
 <img align="left" title="C++" width="48px" src="https://skillicons.dev/icons?i=cpp&theme=dark" />
 </a>
 
-<a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.mongodb.com/">
 <img align="left" title="mongodb" width="48px" src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
 </a>
 
-<a href="https://www.sqlite.org/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.sqlite.org/">
 <img align="left" title="sqlite" width="48px" src="https://skillicons.dev/icons?i=sqlite&theme=dark" />
 </a>
 
-<a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.mysql.com/">
 <img align="left" title="mysql" width="48px" src="https://skillicons.dev/icons?i=mysql&theme=dark" />
 </a>
 
@@ -45,15 +45,15 @@ I make simple things complicated
 
 ## [![Tools](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4269&pause=6942&color=E1DBEF&vCenter=true&height=24&lines=Tools+I'm+Using)](https://git.io/typing-svg)
 
-<a href="https://github.com/" target="_blank" rel="noopener noreferrer">
+<a href="https://github.com/">
 <img align="left" title="github" width="48px" src="https://skillicons.dev/icons?i=github&theme=dark" />
 </a>
 
-<a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
+<a href="https://code.visualstudio.com/">
 <img align="left" title="vscode" width="48px" src="https://skillicons.dev/icons?i=vscode&theme=dark" />
 </a>
 
-<a href="https://godotengine.org/" target="_blank" rel="noopener noreferrer">
+<a href="https://godotengine.org/">
 <img align="left" title="godot" width="48px" src="https://skillicons.dev/icons?i=godot&theme=dark" />
 </a>
 
