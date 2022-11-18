@@ -10,7 +10,7 @@ I make simple things complicated
 
 <br/>
 
-## [![Languages](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4269&pause=6942&color=E1DBEF&vCenter=true&height=24&lines=Languages+I'm+Learning)](https://git.io/typing-svg)
+## [![Languages](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4269&pause=6942&color=E1DBEF&vCenter=true&height=24&lines=Languages)](https://git.io/typing-svg)
 
 <a href="https://www.python.org/">
 <img align="left" title="python" width="48px" src="https://skillicons.dev/icons?i=py&theme=dark" />
@@ -43,7 +43,7 @@ I make simple things complicated
 <br/><br/>
 <br/><br/>
 
-## [![Tools](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4269&pause=6942&color=E1DBEF&vCenter=true&height=24&lines=Tools+I'm+Using)](https://git.io/typing-svg)
+## [![Tools](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4269&pause=6942&color=E1DBEF&vCenter=true&height=24&lines=Tools)](https://git.io/typing-svg)
 
 <a href="https://github.com/">
 <img align="left" title="github" width="48px" src="https://skillicons.dev/icons?i=github&theme=dark" />
