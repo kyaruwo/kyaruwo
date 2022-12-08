@@ -28,6 +28,10 @@ I make simple things complicated
 <img align="left" title="C++" width="48px" src="https://skillicons.dev/icons?i=cpp&theme=dark" />
 </a>
 
+<a href="https://www.oracle.com/java">
+<img align="left" title="java" width="48px" src="https://skillicons.dev/icons?i=java&theme=dark" />
+</a>
+
 <a href="https://www.mongodb.com/">
 <img align="left" title="mongodb" width="48px" src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
 </a>
