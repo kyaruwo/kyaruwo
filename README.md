@@ -1,16 +1,16 @@
 [![Typing SVG](<https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&duration=4269&pause=2314&color=E1DBEF&center=true&vCenter=true&width=1200&height=69&lines=life+is+not+daijoubu;(%E3%81%A5%E2%97%A1%EF%B9%8F%E2%97%A1)%E3%81%A5;wah>)](https://git.io/typing-svg)
 
-</br>
+<br/>
 
 ## [![About Me](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4269&pause=6942&color=E1DBEF&vCenter=true&height=24&lines=About+Me)](https://git.io/typing-svg)
 
-</br>
+<br/>
 
 "I make simple things complicated"
 
-<a href="https://discord.com/">
+<br/>
+
 <img align="center" title="discord" width="24px" src="https://skillicons.dev/icons?i=discord&theme=dark" />
-</a>
 kyaruwo#1298
 
 <br/><br/>
