@@ -14,7 +14,6 @@
 kyaruwo#1298
 
 <br/><br/>
-<br/><br/>
 
 ## [![Languages](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4269&pause=6942&color=E1DBEF&vCenter=true&height=24&lines=Languages)](https://git.io/typing-svg)
 
