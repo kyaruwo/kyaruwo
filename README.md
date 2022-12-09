@@ -10,8 +10,7 @@
 
 <br/>
 
-<img align="center" title="discord" width="24px" src="https://skillicons.dev/icons?i=discord&theme=dark" />
-kyaruwo#1298
+<img align="center" title="discord" width="24px" src="https://skillicons.dev/icons?i=discord&theme=dark" /> kyaruwo#1298
 
 <br/><br/>
 
