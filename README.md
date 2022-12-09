@@ -12,9 +12,9 @@
 
 <img align="center" title="discord" width="24px" src="https://skillicons.dev/icons?i=discord&theme=dark" /> kyaruwo#1298
 
-<br/><br/>
+<br/>
 
-## [![Languages](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4269&pause=6942&color=E1DBEF&vCenter=true&height=24&lines=Languages)](https://git.io/typing-svg)
+## [![Languages](https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&duration=4269&pause=6942&color=E1DBEF&vCenter=true&height=24&lines=Languages)](https://git.io/typing-svg)
 
 <a href="https://www.python.org/">
 <img align="left" title="python" width="48px" src="https://skillicons.dev/icons?i=py&theme=dark" />
