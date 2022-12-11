@@ -10,12 +10,6 @@
 
 <br/>
 
-<a href="https://discord.com/">
-<img align="center" title="discord" width="24px" src="https://skillicons.dev/icons?i=discord&theme=dark" />
-</a> kyaruwo#1298
-
-<br/><br/>
-
 ## [![Languages](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4269&pause=6942&color=E1DBEF&vCenter=true&height=24&lines=Languages)](https://git.io/typing-svg)
 
 <a href="https://www.python.org/">
@@ -30,6 +24,10 @@
 <img align="left" title="gdscript" width="48px" src="https://skillicons.dev/icons?i=godot&theme=dark" />
 </a>
 
+<a href="https://nuwen.net/mingw.html">
+<img align="left" title="C++" width="48px" src="https://skillicons.dev/icons?i=cpp&theme=dark" />
+</a>
+
 <a href="https://www.mongodb.com/">
 <img align="left" title="mongodb" width="48px" src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
 </a>
@@ -40,10 +38,6 @@
 
 <a href="https://www.mysql.com/">
 <img align="left" title="mysql" width="48px" src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-</a>
-
-<a href="https://nuwen.net/mingw.html">
-<img align="left" title="C++" width="48px" src="https://skillicons.dev/icons?i=cpp&theme=dark" />
 </a>
 
 <a href="https://www.oracle.com/java">
