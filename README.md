@@ -44,6 +44,10 @@
 <img align="left" title="mysql" width="48px" src="https://skillicons.dev/icons?i=mysql&theme=dark" />
 </a>
 
+<a href="https://regexr.com/">
+<img align="left" title="regex" width="48px" src="https://skillicons.dev/icons?i=regex&theme=dark" />
+</a>
+
 <br/><br/>
 <br/><br/>
 
@@ -68,6 +72,10 @@
 
 <a href="https://numpy.org/">
 <img align="left" title="numpy" width="48px" src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/logomark/numpylogoicon.png" />
+</a>
+
+<a href="https://www.qt.io/">
+<img align="left" title="qt" width="48px" src="https://skillicons.dev/icons?i=qt&theme=dark" />
 </a>
 
 <a href="https://www.rust-lang.org/">
