@@ -67,7 +67,7 @@
 ## [![Interest](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4269&pause=6942&color=E1DBEF&vCenter=true&height=24&lines=Interest)](https://git.io/typing-svg)
 
 <a href="https://numpy.org/">
-<img align="left" title="numpy" width="48px" src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/logomark/numpylogoicondark.png" />
+<img align="left" title="numpy" width="48px" src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/logomark/numpylogoicon.png" />
 </a>
 
 <a href="https://www.rust-lang.org/">
