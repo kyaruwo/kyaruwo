@@ -44,10 +44,6 @@
 <img align="left" title="mysql" width="48px" src="https://skillicons.dev/icons?i=mysql&theme=dark" />
 </a>
 
-<a href="https://regexr.com/">
-<img align="left" title="regex" width="48px" src="https://skillicons.dev/icons?i=regex&theme=dark" />
-</a>
-
 <br/><br/>
 <br/><br/>
 
@@ -63,6 +59,10 @@
 
 <a href="https://godotengine.org/">
 <img align="left" title="godot" width="48px" src="https://skillicons.dev/icons?i=godot&theme=dark" />
+</a>
+
+<a href="https://regexr.com/">
+<img align="left" title="regex" width="48px" src="https://skillicons.dev/icons?i=regex&theme=dark" />
 </a>
 
 <br/><br/>
