@@ -93,6 +93,6 @@
 
 <p align="center">
 
-<img title="tako" src="tako.gif "width="69px" />
+<img title="tako" src="tako.gif" width="69px" />
 
 </p>
