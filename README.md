@@ -75,7 +75,7 @@
 </a>
 
 <a href="https://matplotlib.org/">
-<img align="left" title="numpy" width="48px" src="https://matplotlib.org/_static/images/documentation.svg" />
+<img align="left" title="matplotlib" width="48px" src="https://matplotlib.org/_static/images/documentation.svg" />
 </a>
 
 <a href="https://www.rust-lang.org/">
