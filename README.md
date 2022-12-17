@@ -93,6 +93,6 @@
 
 <p align="center">
 
-<img width="69px" style="border-radius:69%" title="tako" src="tako.gif" />
+<img title="tako" src="tako.gif "width="69px" />
 
 </p>
