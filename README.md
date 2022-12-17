@@ -88,3 +88,11 @@
 
 <br/><br/>
 <br/><br/>
+
+##
+
+<p align="center">
+
+<img  title="tako.gif" width="69px" src="tako.gif" />
+
+</p>
