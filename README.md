@@ -74,8 +74,8 @@
 <img align="left" title="numpy" width="48px" src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/logomark/numpylogoicon.png" />
 </a>
 
-<a href="https://www.qt.io/">
-<img align="left" title="qt" width="48px" src="https://skillicons.dev/icons?i=qt&theme=dark" />
+<a href="https://matplotlib.org/">
+<img align="left" title="numpy" width="48px" src="https://matplotlib.org/_static/images/documentation.svg" />
 </a>
 
 <a href="https://www.rust-lang.org/">
