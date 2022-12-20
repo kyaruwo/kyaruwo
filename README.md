@@ -78,6 +78,10 @@
 <img align="left" title="matplotlib" width="48px" src="https://matplotlib.org/_static/images/documentation.svg" />
 </a>
 
+<a href="https://www.linux.org/">
+<img align="left" title="linux" width="48px" src="https://skillicons.dev/icons?i=linux&theme=dark" />
+</a>
+
 <a href="https://www.rust-lang.org/">
 <img align="left" title="rust" width="48px" src="https://skillicons.dev/icons?i=rust&theme=dark" />
 </a>
@@ -92,7 +96,5 @@
 ##
 
 <p align="center">
-
 <img title="tako" src="tako.gif" width="69px" />
-
 </p>
