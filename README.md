@@ -78,6 +78,9 @@
 <img align="left" title="matplotlib" width="48px" src="https://matplotlib.org/_static/images/documentation.svg" />
 </a>
 
+<a href="https://www.qt.io/">
+<img align="left" title="qt" width="48px" src="https://skillicons.dev/icons?i=qt&theme=dark" />
+
 <a href="https://www.linux.org/">
 <img align="left" title="linux" width="48px" src="https://skillicons.dev/icons?i=linux&theme=dark" />
 </a>
