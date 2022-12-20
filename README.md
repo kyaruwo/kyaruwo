@@ -6,7 +6,7 @@
 
 <br/>
 
-"I make simple things complicated"
+I make simple things complicated
 
 <br/>
 
