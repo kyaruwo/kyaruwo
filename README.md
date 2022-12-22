@@ -103,6 +103,3 @@ I make simple things complicated
 <img title="tako" src="tako.gif" width="69px" />
 
 </p>
-
-<br/><br/>
-<br/><br/>
