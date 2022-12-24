@@ -97,6 +97,10 @@ I make simple things complicated
 <img align="left" title="rust" width="48px" src="https://skillicons.dev/icons?i=rust&theme=dark" />
 </a>
 
+<a href="https://go.dev/">
+<img align="left" title="go" width="48px" src="https://skillicons.dev/icons?i=go&theme=dark" />
+</a>
+
 <a href="https://www.typescriptlang.org/">
 <img align="left" title="typescript" width="48px" src="https://skillicons.dev/icons?i=ts&theme=dark" />
 </a>
