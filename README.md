@@ -16,12 +16,12 @@ I make simple things complicated
 <img align="left" title="python" width="48px" src="https://skillicons.dev/icons?i=py&theme=dark" />
 </a>
 
-<a href="https://nodejs.org/en/">
-<img align="left" title="nodejs" width="48px" src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
-</a>
-
 <a href="https://godotengine.org/">
 <img align="left" title="gdscript" width="48px" src="https://skillicons.dev/icons?i=godot&theme=dark" />
+</a>
+
+<a href="https://nodejs.org/en/">
+<img align="left" title="nodejs" width="48px" src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
 </a>
 
 <a href="https://nuwen.net/mingw.html">
@@ -89,6 +89,8 @@ I make simple things complicated
 <img align="left" title="selenium" width="48px" src="https://skillicons.dev/icons?i=selenium&theme=dark" />
 </a>
 
+<br/><br/>
+
 <a href="https://www.linux.org/">
 <img align="left" title="linux" width="48px" src="https://skillicons.dev/icons?i=linux&theme=dark" />
 </a>
@@ -103,6 +105,10 @@ I make simple things complicated
 
 <a href="https://www.typescriptlang.org/">
 <img align="left" title="typescript" width="48px" src="https://skillicons.dev/icons?i=ts&theme=dark" />
+</a>
+
+<a href="https://svelte.dev/">
+<img align="left" title="svelte" width="48px" src="https://skillicons.dev/icons?i=svelte&theme=dark" />
 </a>
 
 <br/><br/>
