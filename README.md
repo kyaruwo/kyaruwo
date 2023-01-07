@@ -83,34 +83,12 @@ I make simple things complicated
 <a href="https://www.qt.io/">
 <img align="left" title="qt" width="48px" src="https://skillicons.dev/icons?i=qt&theme=dark" />
 
-<a href="https://fastapi.tiangolo.com/">
-<img align="left" title="fastapi" width="48px" src="https://skillicons.dev/icons?i=fastapi&theme=dark" />
-</a>
-
-<a href="https://www.selenium.dev/">
-<img align="left" title="selenium" width="48px" src="https://skillicons.dev/icons?i=selenium&theme=dark" />
-</a>
-
-<br/><br/>
-
 <a href="https://www.linux.org/">
 <img align="left" title="linux" width="48px" src="https://skillicons.dev/icons?i=linux&theme=dark" />
 </a>
 
 <a href="https://www.rust-lang.org/">
 <img align="left" title="rust" width="48px" src="https://skillicons.dev/icons?i=rust&theme=dark" />
-</a>
-
-<a href="https://go.dev/">
-<img align="left" title="go" width="48px" src="https://skillicons.dev/icons?i=go&theme=dark" />
-</a>
-
-<a href="https://www.typescriptlang.org/">
-<img align="left" title="typescript" width="48px" src="https://skillicons.dev/icons?i=ts&theme=dark" />
-</a>
-
-<a href="https://svelte.dev/">
-<img align="left" title="svelte" width="48px" src="https://skillicons.dev/icons?i=svelte&theme=dark" />
 </a>
 
 <br/><br/>
