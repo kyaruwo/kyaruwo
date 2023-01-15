@@ -20,12 +20,12 @@ I make simple things complicated
 <img align="left" title="gdscript" width="48px" src="https://skillicons.dev/icons?i=godot&theme=dark" />
 </a>
 
-<a href="https://nodejs.org/en/">
-<img align="left" title="nodejs" width="48px" src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
-</a>
-
 <a href="https://nuwen.net/mingw.html">
 <img align="left" title="C++" width="48px" src="https://skillicons.dev/icons?i=cpp&theme=dark" />
+</a>
+
+<a href="https://nodejs.org/en/">
+<img align="left" title="nodejs" width="48px" src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
 </a>
 
 <a href="https://www.oracle.com/java">
