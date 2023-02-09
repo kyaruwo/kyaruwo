@@ -44,6 +44,7 @@ I make simple things complicated
 
 <a href="https://www.qt.io/">
 <img align="left" title="qt" width="48px" src="https://skillicons.dev/icons?i=qt&theme=dark" />
+</a>
 
 <br/><br/>
 <br/><br/>
