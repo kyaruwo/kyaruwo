@@ -16,32 +16,8 @@ I make simple things complicated
 <img align="left" title="python" width="48px" src="https://skillicons.dev/icons?i=py&theme=dark" />
 </a>
 
-<a href="https://godotengine.org/">
-<img align="left" title="gdscript" width="48px" src="https://skillicons.dev/icons?i=godot&theme=dark" />
-</a>
-
 <a href="https://www.sqlite.org/">
 <img align="left" title="sqlite" width="48px" src="https://skillicons.dev/icons?i=sqlite&theme=dark" />
-</a>
-
-<a href="https://www.mysql.com/">
-<img align="left" title="mysql" width="48px" src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-</a>
-
-<a href="https://www.mongodb.com/">
-<img align="left" title="mongodb" width="48px" src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
-</a>
-
-<a href="https://nodejs.org/en/">
-<img align="left" title="nodejs" width="48px" src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
-</a>
-
-<a href="https://nuwen.net/mingw.html">
-<img align="left" title="C++" width="48px" src="https://skillicons.dev/icons?i=cpp&theme=dark" />
-</a>
-
-<a href="https://www.oracle.com/java">
-<img align="left" title="java" width="48px" src="https://skillicons.dev/icons?i=java&theme=dark" />
 </a>
 
 <br/><br/>
@@ -57,10 +33,6 @@ I make simple things complicated
 <img align="left" title="vscode" width="48px" src="https://skillicons.dev/icons?i=vscode&theme=dark" />
 </a>
 
-<a href="https://godotengine.org/">
-<img align="left" title="godot" width="48px" src="https://skillicons.dev/icons?i=godot&theme=dark" />
-</a>
-
 <a href="https://regexr.com/">
 <img align="left" title="regex" width="48px" src="https://skillicons.dev/icons?i=regex&theme=dark" />
 </a>
@@ -70,24 +42,8 @@ I make simple things complicated
 
 ## [![Interest](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4269&pause=6942&color=E1DBEF&vCenter=true&height=24&lines=Interest)](https://git.io/typing-svg)
 
-<a href="https://numpy.org/">
-<img align="left" title="numpy" width="48px" src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/logomark/numpylogoicon.png" />
-</a>
-
-<a href="https://matplotlib.org/">
-<img align="left" title="matplotlib" width="48px" src="https://matplotlib.org/_static/images/documentation.svg" />
-</a>
-
 <a href="https://www.qt.io/">
 <img align="left" title="qt" width="48px" src="https://skillicons.dev/icons?i=qt&theme=dark" />
-
-<a href="https://www.linux.org/">
-<img align="left" title="linux" width="48px" src="https://skillicons.dev/icons?i=linux&theme=dark" />
-</a>
-
-<a href="https://www.rust-lang.org/">
-<img align="left" title="rust" width="48px" src="https://skillicons.dev/icons?i=rust&theme=dark" />
-</a>
 
 <br/><br/>
 <br/><br/>
