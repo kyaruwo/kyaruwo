@@ -20,6 +20,10 @@ I make simple things complicated
 <img align="left" title="sqlite" width="48px" src="https://skillicons.dev/icons?i=sqlite&theme=dark" />
 </a>
 
+<a href="https://godotengine.org/">
+<img align="left" title="gdscript" width="48px" src="https://skillicons.dev/icons?i=godot&theme=dark" />
+</a>
+
 <br/><br/>
 <br/><br/>
 
@@ -33,8 +37,8 @@ I make simple things complicated
 <img align="left" title="vscode" width="48px" src="https://skillicons.dev/icons?i=vscode&theme=dark" />
 </a>
 
-<a href="https://regexr.com/">
-<img align="left" title="regex" width="48px" src="https://skillicons.dev/icons?i=regex&theme=dark" />
+<a href="https://godotengine.org/">
+<img align="left" title="godot" width="48px" src="https://skillicons.dev/icons?i=godot&theme=dark" />
 </a>
 
 <br/><br/>
