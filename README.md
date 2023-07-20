@@ -46,8 +46,8 @@ I make simple things complicated
 
 ## [![Interest](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4269&pause=6942&color=E1DBEF&vCenter=true&height=24&lines=Interest)](https://git.io/typing-svg)
 
-<a href="https://www.qt.io/">
-<img align="left" title="qt" width="48px" src="https://skillicons.dev/icons?i=qt&theme=dark" />
+<a href="https://svelte.dev/">
+<img align="left" title="svelte" width="48px" src="https://skillicons.dev/icons?i=svelte&theme=dark" />
 </a>
 
 <br/><br/>
